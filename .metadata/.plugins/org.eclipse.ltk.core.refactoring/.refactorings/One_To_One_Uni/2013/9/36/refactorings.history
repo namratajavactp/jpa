@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AddEmployee.java&apos; to &apos;OptimisticLockEx/src/com.jpa&apos;&#x0D;&#x0A;- Original project: &apos;One_To_One_Uni&apos;&#x0D;&#x0A;- Destination element: &apos;OptimisticLockEx/src/com.jpa&apos;&#x0D;&#x0A;- Original element: &apos;com.jpa.AddEmployee.java&apos;" description="Copy compilation unit" destination="=OptimisticLockEx/src&lt;com.jpa" element1="/src&lt;com.jpa{AddEmployee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1378101352217" units="1" version="1.0"/>
+</session>

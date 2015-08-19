@@ -1,0 +1,27 @@
+package com.jpa;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+
+@Entity
+public class SalesPerson extends Employee {
+	private int incentives;
+
+	public SalesPerson() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public SalesPerson(int empId, String name, int sal, int incentives) {
+		super(empId, name, sal);
+		this.incentives = incentives;
+	}
+
+	
+	public int getIncentives() {
+		return incentives;
+	}
+
+	public void setIncentives(int incentives) {
+		this.incentives = incentives;
+	}
+}
